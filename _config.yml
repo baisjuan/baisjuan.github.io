@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: SpreadIT
+email: contact@spreadIT.com
+description: "SpreadIT software solutions. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -24,8 +24,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Sanchez de Bustamante 1200
+  - line: Buenos Aires, Argentina
 
 # Build settings
 markdown: kramdown
