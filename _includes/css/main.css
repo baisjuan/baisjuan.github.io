@@ -203,8 +203,11 @@ section.success {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
-    hover: #fff;
+    max-width: 400px;    
+}
+    
+#portfolio .portfolio-item .portfolio-link :hover{
+    background-color: #E3E3E3;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
