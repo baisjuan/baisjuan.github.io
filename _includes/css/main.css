@@ -84,11 +84,15 @@ header {
     color: #fff;
     background: #{{ site.color.primary }};
     background-image: url(../img/background/urban_landscape.jpg);
+    background-size:   cover;                      
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
+    
 }
 
 header img {
