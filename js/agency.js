@@ -24,3 +24,22 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$( document ).ready( function() {
+	$("#header").css('height',$(window).height());
+	$("#header").css('width',$(window).width());
+
+	$("#services").css('height',$(window).height());
+	$("#services").css('width',$(window).width());
+
+	
+	$("#team").css('height',$(window).height());
+	$("#team").css('width',$(window).width());
+
+	$("#whyus").css('height',$(window).height());
+	$("#whyus").css('width',$(window).width());
+
+	$("#contact").css('height',$(window).height());
+	$("#contact").css('width',$(window).width());
+}
+);
