@@ -298,6 +298,11 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-heading {
+    height: 335px;
+    margin-top: -160px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
