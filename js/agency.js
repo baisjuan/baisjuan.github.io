@@ -27,19 +27,21 @@ $('.navbar-collapse ul li a').click(function() {
 
 $( document ).ready( function() {
 	$("#header").css('min-height',$(window).height());
-	$("#header").css('max-width',$(window).width());
+	$("#header").css('width',$(window).width());
 
 	$("#services").css('min-height',$(window).height());
-	$("#services").css('max-width',$(window).width());
+	$("#services").css('width',$(window).width());
 
 	
 	$("#team").css('min-height',$(window).height());
-	$("#team").css('max-width',$(window).width());
+	$("#team").css('width',$(window).width());
 
 	$("#whyus").css('min-height',$(window).height());
-	$("#whyus").css('max-width',$(window).width());
+	$("#whyus").css('width',$(window).width());
 
 	$("#contact").css('min-height',$(window).height());
-	$("#contact").css('max-width',$(window).width());
+	$("#contact").css('width',$(window).width());
+
+	$("#page-top").css('max-width',$(window).width());	
 }
 );
