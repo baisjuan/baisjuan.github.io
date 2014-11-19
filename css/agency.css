@@ -282,7 +282,7 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 0px;
+    margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
@@ -296,12 +296,6 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
-}
-
-header .intro-heading {
-    height: 335px;
-    margin-top: -160px;
-    font-size: 60px;
 }
 
 @media(min-width:768px) {
