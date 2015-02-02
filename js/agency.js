@@ -26,6 +26,9 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 $( document ).ready( function() {
+
+	$("#navbar").css('width',$(window).width());	
+
 	$("#header").css('min-height',$(window).height());
 	$("#header").css('width',$(window).width());	
 
