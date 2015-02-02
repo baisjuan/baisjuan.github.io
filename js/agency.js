@@ -25,7 +25,9 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
-$( document ).ready( function() 
+$( document ).ready( function() {
+
+	$("#navbar").css('width',$(window).width());	
 
 	$("#header").css('min-height',$(window).height());
 	$("#header").css('width',$(window).width());	
@@ -40,9 +42,8 @@ $( document ).ready( function()
 	$("#whyus").css('width',$(window).width());
 
 	$("#contact").css('min-height',$(window).height());
-	$("#contact").css('width',$(window).width());
+	$("#contact").css('width',$(window).width());	
 	
-	$("#navbar").css('width',$(window).width());	
 	$("#page-top").css('width',$(window).width());	
 }
 );
