@@ -44,5 +44,7 @@ $( document ).ready( function() {
 
 	$("#contact").css('min-height',$(window).height());
 	$("#contact").css('width',$(window).width());		
+
+	$("#footer").css('width',$(window).width());	
 }
 );
