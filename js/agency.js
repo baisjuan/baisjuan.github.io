@@ -29,8 +29,6 @@ $( document ).ready( function() {
 	$("#header").css('min-height',$(window).height());
 	$("#header").css('max-width',$(window).width());	
 
-	$("intro-text").css('width',$(window).width());	
-
 	$("#services").css('min-height',$(window).height());
 	$("#services").css('width',$(window).width());
 
