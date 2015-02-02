@@ -27,11 +27,10 @@ $('.navbar-collapse ul li a').click(function() {
 
 $( document ).ready( function() {
 	$("#header").css('min-height',$(window).height());
-	$("#header").css('max-width',$(window).width());	
+	$("#header").css('width',$(window).width());	
 
 	$("#services").css('min-height',$(window).height());
 	$("#services").css('width',$(window).width());
-
 	
 	$("#team").css('min-height',$(window).height());
 	$("#team").css('width',$(window).width());
