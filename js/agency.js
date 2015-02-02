@@ -29,7 +29,7 @@ $( document ).ready( function() {
 	$("#header").css('min-height',$(window).height());
 	$("#header").css('width',$(window).width());
 
-	console.log($(window).width());
+	alert($(window).width());
 
 	$("#services").css('min-height',$(window).height());
 	$("#services").css('width',$(window).width());
