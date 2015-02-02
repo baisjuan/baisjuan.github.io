@@ -47,15 +47,6 @@ a.active {
     color: #fec503;
 }
 
-#companyName {
-    margin-bottom: 50px;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
-    font-weight: 700;
-    line-height: 75px;
-}
-
 h1 {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
