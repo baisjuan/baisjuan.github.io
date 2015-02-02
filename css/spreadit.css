@@ -5,13 +5,13 @@ a.tooltips {
 
 a.tooltips span {
   position: absolute;
-  width:270px;
+  width:271px;
   color: #000000;
   background: #FED136;
   border: 2px solid #D9D9D9;
   height: 57px;
   line-height: 57px;
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
   visibility: hidden;
   border-radius: 11px;
