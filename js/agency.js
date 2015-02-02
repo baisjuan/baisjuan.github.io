@@ -27,6 +27,7 @@ $('.navbar-collapse ul li a').click(function() {
 
 $( document ).ready( function() {
 
+	$("#page-top").css('width',$(window).width());	
 	$("#navbar").css('width',$(window).width());	
 
 	$("#header").css('min-height',$(window).height());
