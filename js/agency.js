@@ -26,7 +26,7 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 $( document ).ready( function() {	
-	$("#cacho").css('width',$(window).width());	
+	
 	$("#page-top").css('width',$(window).width());	
 	$("#navbar").css('width',$(window).width());	
 
