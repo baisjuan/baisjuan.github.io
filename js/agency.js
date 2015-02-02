@@ -42,7 +42,7 @@ $( document ).ready( function()
 	$("#contact").css('min-height',$(window).height());
 	$("#contact").css('width',$(window).width());
 	
-	$("#navbar").css('max-width',$(window).width());	
-	$("#page-top").css('max-width',$(window).width());	
+	$("#navbar").css('width',$(window).width());	
+	$("#page-top").css('width',$(window).width());	
 }
 );
